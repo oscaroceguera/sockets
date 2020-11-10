@@ -5,12 +5,8 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      endpoint: "localhost:4001",
-
-      ///
+      endpoint: "localhost:4005",
       color: 'white'
-      ///
-
     };
   }
 
